@@ -1,15 +1,12 @@
-import { useEffect, useState } from "react"
+import { useEffect, useState } from 'react'
+import { FollowMouse } from './components/FollowMouse'
 
 function App() {
-  const [enabled, setEnabled] = useState(false)
-
-  useEffect( () => {
-    console.log('efecto')
-  } )
-
-  return (
-    <h3>proyecto 3</h3>
-  )
+	return (
+		<main>
+      <FollowMouse/>
+		</main>
+	)
 }
 
 export default App
