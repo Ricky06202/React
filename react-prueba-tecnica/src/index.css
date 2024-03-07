@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+	@apply bg-black text-white;
+}
+
+.contenedor {
+	@apply m-3 text-center items-center flex flex-col gap-2;
+}
+
+.titulo {
+	@apply font-bold text-2xl font-serif;
+}
+.imagen {
+	@apply max-h-60 rounded-3xl;
+}
+.boton {
+	@apply bg-white text-black px-6 py-1 rounded-xl;
+}
