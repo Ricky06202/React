@@ -1,0 +1,76 @@
+{
+	"Search": [
+		{
+			"Title": "Halo",
+			"Year": "2022–",
+			"imdbID": "tt2934286",
+			"Type": "series",
+			"Poster": "https://m.media-amazon.com/images/M/MV5BOTZkNjllMzYtY2ZiNi00YTdkLTg0OTEtZTgzOGY5Njc3NmNiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg"
+		},
+		{
+			"Title": "Halo 4: Forward Unto Dawn",
+			"Year": "2012",
+			"imdbID": "tt2262308",
+			"Type": "series",
+			"Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NDA3MjEyMF5BMl5BanBnXkFtZTcwNzY4NjU1OQ@@._V1_SX300.jpg"
+		},
+		{
+			"Title": "Halo 3",
+			"Year": "2007",
+			"imdbID": "tt0494232",
+			"Type": "game",
+			"Poster": "https://m.media-amazon.com/images/M/MV5BNTExODkzOTMxOV5BMl5BanBnXkFtZTgwNDk2NzE2MDE@._V1_SX300.jpg"
+		},
+		{
+			"Title": "Halo: Combat Evolved",
+			"Year": "2001",
+			"imdbID": "tt0309654",
+			"Type": "game",
+			"Poster": "https://m.media-amazon.com/images/M/MV5BZmFhOGZiMDEtZDU2NC00Njc2LTk2YzUtZTVkZDJkNWMwNDUzXkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_SX300.jpg"
+		},
+		{
+			"Title": "Halo 4",
+			"Year": "2012",
+			"imdbID": "tt2006120",
+			"Type": "game",
+			"Poster": "https://m.media-amazon.com/images/M/MV5BNzA1MjAzMjM5OV5BMl5BanBnXkFtZTcwMzk3OTI2OA@@._V1_SX300.jpg"
+		},
+		{
+			"Title": "Halo 2",
+			"Year": "2004",
+			"imdbID": "tt0357718",
+			"Type": "game",
+			"Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NDE5MzE1M15BMl5BanBnXkFtZTcwNzIyNzkyMQ@@._V1_SX300.jpg"
+		},
+		{
+			"Title": "Halo: Nightfall",
+			"Year": "2014",
+			"imdbID": "tt3804114",
+			"Type": "series",
+			"Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NTQwNzU2OV5BMl5BanBnXkFtZTgwNzkxOTQ0MzE@._V1_SX300.jpg"
+		},
+		{
+			"Title": "Halo Legends",
+			"Year": "2010",
+			"imdbID": "tt1480660",
+			"Type": "movie",
+			"Poster": "https://m.media-amazon.com/images/M/MV5BMzE5NDAzNDkwOV5BMl5BanBnXkFtZTgwNTE3ODAwNzE@._V1_SX300.jpg"
+		},
+		{
+			"Title": "Halo: The Fall of Reach",
+			"Year": "2015",
+			"imdbID": "tt4856322",
+			"Type": "series",
+			"Poster": "https://m.media-amazon.com/images/M/MV5BZTVmNWY4ODUtZjY1Mi00N2UyLTg5OTEtZGJhM2Y4MDA3MjY2XkEyXkFqcGdeQXVyNjI2NDA5MDk@._V1_SX300.jpg"
+		},
+		{
+			"Title": "Halo: Reach",
+			"Year": "2010",
+			"imdbID": "tt1723639",
+			"Type": "game",
+			"Poster": "https://m.media-amazon.com/images/M/MV5BMjA2MzY2NTkwMV5BMl5BanBnXkFtZTgwNTk0MTU3MDE@._V1_SX300.jpg"
+		}
+	],
+	"totalResults": "138",
+	"Response": "True"
+}
